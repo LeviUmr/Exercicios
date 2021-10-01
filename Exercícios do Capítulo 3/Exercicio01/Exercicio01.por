@@ -3,7 +3,7 @@ programa
 	//converter celsius em fahrenheit
 	
 real c= 0//celsius
-	real f= 0//fahrenheit
+real f= 0//fahrenheit
 	
 	funcao inicio()
 	{
