@@ -5,6 +5,7 @@
 Iniciado em 01/10/21
 ## Pseudocódigo em Portugol e aplicação em C/C++
 
+Exercícios do Capítulo 3 contém estruturas sequencias sem laço de condição
 
 ## Objetivos secundários
 ### Aplicar a lógica em outras linguagens:
