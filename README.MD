@@ -8,7 +8,7 @@ Iniciado em 01/10/21
 
 ## Objetivos secundários
 ### Aplicar a lógica em outras linguagens:
-#### -[ ] Javascript
-#### -[ ] Java
-#### -[ ] Python
+#### - [ ] Javascript
+#### - [ ] Java
+#### - [ ] Python
 
