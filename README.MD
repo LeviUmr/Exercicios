@@ -9,7 +9,7 @@ Iniciado em 01/10/21
 ### C/C++
 
 ## Conteúdo dos capítulos 
-- Capítulo 3 
+### Capítulo 3 
 contém estruturas sequencias sem laço de condição
 
 ## Objetivos secundários
